@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Authors</title>
+ </head>
+ <body>
+	{% for i in data %}
+	{{i['name']}}:{{l.count(i['id'])}}<br>
+	{% endfor %}
+ </body>
+</html>

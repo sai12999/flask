@@ -1,0 +1,14 @@
+<html>
+
+   <body>
+   
+      <form action = "/setcookie" method = "POST">
+         <p><h3>Enter username</h3></p>
+         <p><input type = 'text' name = 'user'/></p>
+	 <p><h3>Enter age</h3></p>
+         <p><input type = 'text' name = 'age'/></p>
+         <p><input type = 'submit' value = 'Login'/></p>
+      </form>
+      
+   </body>
+</html>

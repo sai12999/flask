@@ -1,0 +1,12 @@
+<html>
+
+   <body>
+   
+      <form action = "/senddata">
+         <p><h3>Enter data to be sent</h3></p>
+         <p><input type = 'text' name = 'input'></p
+         <p><input type = 'submit' value = 'Submit'></p>
+      </form>
+      
+   </body>
+</html>
